@@ -32,11 +32,5 @@ public extension UIView {
         get {
             return self.frame.origin.x + self.frame.size.width
         }
-    }
-    
-    func makeShadow() {
-        layer.shadowColor = UIColor.black.cgColor
-        layer.shadowOpacity = 0.5
-        layer.shadowOffset = .zero
-    }
+    } 
 }
