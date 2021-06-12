@@ -1,0 +1,6 @@
+framework module ZDSwift {
+  umbrella header "ZDSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
