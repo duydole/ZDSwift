@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ZDSwift_Example' do
+  pod 'ZDSwift', :path => '../'
+
+  target 'ZDSwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
