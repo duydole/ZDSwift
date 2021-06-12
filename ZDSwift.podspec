@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = "This CocoaPod provides some Utilities, Extension of Swift. Make your code more easier."
+  s.description      = "This CocoaPod provides some Utilities, Extension of Swift, make your code more easier."
 
   s.swift_versions   = "4.0"
   s.homepage         = 'https://github.com/duydole/ZDSwift'
